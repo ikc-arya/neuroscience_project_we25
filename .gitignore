@@ -1,2 +1,3 @@
-sources/*.pdf
-data/*
+sources/
+data/
+eeg_car/
